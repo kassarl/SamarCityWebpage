@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.8b88f979.js",
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.a3e2e237.js",
     "static/js/787.03f1e511.chunk.js": "/static/js/787.03f1e511.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/SamarCity_Background.png": "/static/media/SamarCity_Background.d343300dffcd2b329ff3.png",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.8b88f979.js.map": "/static/js/main.8b88f979.js.map",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.a3e2e237.js.map": "/static/js/main.a3e2e237.js.map",
     "787.03f1e511.chunk.js.map": "/static/js/787.03f1e511.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.8b88f979.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a3e2e237.js"
   ]
 }
