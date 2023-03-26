@@ -2,9 +2,14 @@ import React from "react";
 import Container from 'react-bootstrap/Container';
 import Navbar from 'react-bootstrap/Navbar';
 
+const navStyle = {
+  backgroundColor: "#07061F",
+  color: "white",
+};
+
 function Navigation() {
   return (
-    <Navbar expand="lg" variant="dark" bg="dark">
+    <Navbar className="navigation">
         <Navbar.Brand href="/">Samar City</Navbar.Brand>
         <Container />
 

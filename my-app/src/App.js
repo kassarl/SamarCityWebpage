@@ -8,7 +8,7 @@ import Blog from "./pages/Blog";
 
 export default function App() {
   return (
-    <div>     
+    <div className="app">     
       <Navigation />
       <Routes>
         <Route path="/">

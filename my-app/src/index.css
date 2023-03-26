@@ -11,3 +11,40 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.navbar-brand {
+  color: antiquewhite;
+}
+.navigation {
+  background-color: #07061F;
+}
+
+.app {
+  background-color: #07061F;
+  min-width: 100vw;
+  min-height: 100vh;
+
+}
+
+h1 {
+  color: antiquewhite;
+  width: fit-content;
+  margin: auto;
+}
+h2 {
+  color: antiquewhite;
+}
+
+h3 {
+  color: antiquewhite;
+  margin: auto;
+  width: fit-content;
+  align-self: center;
+}
+
+.homeText h1 {
+  font-size: large;
+}
+.align-items-center {
+  align-items: center;
+}
