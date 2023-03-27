@@ -9,6 +9,8 @@ export class Home extends Component {
     render() {
         return(
             <div>
+                <div>
+
                 <Container className='homeHeader'>
                      <Row>
                         <Col>
@@ -21,10 +23,11 @@ export class Home extends Component {
                         </Col>
                     </Row>
                 </Container>
+                </div>
                 <div>
                     <img src={background} className="cityImage" />
                 </div>
-                <Blog/>
+               
             </div>
             
         )
