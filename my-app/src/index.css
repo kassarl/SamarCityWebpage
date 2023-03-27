@@ -48,3 +48,12 @@ h3 {
 .align-items-center {
   align-items: center;
 }
+
+.cityImage {
+  width: 100vw;
+  min-width: 50%;
+}
+
+.homeHeader {
+  margin-top: 10;
+}

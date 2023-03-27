@@ -3,17 +3,16 @@ import Navigation from '../components/Navigation';
 import { Image } from 'react-bootstrap';
 import background from '../images/SamarCityBackdropNight.png';
 import {Container, Row, Col} from 'react-bootstrap';
-
+import Blog from '../components/Blog';
 
 export class Home extends Component {
     render() {
         return(
             <div>
-                
-                <Container className='align-items-center'>
+                <Container className='homeHeader'>
                      <Row>
                         <Col>
-                            <h1 className="homeText"> Samar City</h1>
+                            <h1> Samar City</h1>
                         </Col>
                     </Row>
                     <Row>
@@ -23,11 +22,11 @@ export class Home extends Component {
                     </Row>
                 </Container>
                 <div>
-                    <Image src={background} fluid="true" />
+                    <img src={background} className="cityImage" />
                 </div>
-
-                           
+                <Blog/>
             </div>
+            
         )
     }
 }

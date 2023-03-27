@@ -5,8 +5,8 @@ export class AboutUs extends Component {
         return(
             <div>
                 <div>
+                    <h2>Samar City Developers - About us!</h2>
                 </div>
-                   <h2>Samar City Developers - About us!</h2>                                
             </div>
         )
     }
